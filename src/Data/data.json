@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "book_name": "Ikigai",
+        "book_genre": "Self-Development",
+        "book_author": "Hector Garcia",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg"
+    },
+    {
+        "id": 2,
+        "book_name": "Atomic Habits",
+        "book_genre": "Self-Development",
+        "book_author": "James Clear",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/51CPNIRSWeL._SX339_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 3,
+        "book_name": "Wings of Fire",
+        "book_genre": "Biography",
+        "book_author": "APJ Abdul Kalam",
+        "book_image": "https://rukminim1.flixcart.com/image/416/416/juk4gi80/book/4/6/6/wings-of-fire-original-imaffmk4gx5pxqvf.jpeg?q=70"
+    },
+    {
+        "id": 4,
+        "book_name": "Rich Dad Poor Dad",
+        "book_genre": "Finance",
+        "book_author": "Robert Kiyosaki",
+        "book_image": "https://kbimages1-a.akamaihd.net/ddf8d53d-7df5-4560-8fbd-43915f4f6a03/1200/1200/False/rich-dad-poor-dad-24.jpg"
+    },
+    {
+        "id": 5,
+        "book_name": "Sapiens",
+        "book_genre": "History",
+        "book_author": "Yuval Noah Harari",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/41+lolL22gL.jpg"
+    },
+    {
+        "id": 6,
+        "book_name": "Mindset",
+        "book_genre": "Self-Development",
+        "book_author": "Carol Dweck", 
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/61yZA6ehN8L.jpg"
+    },
+    {
+        "id": 7,
+        "book_name": "The Alchemist",
+        "book_genre": "Novel",
+        "book_author": "Paul Coelho",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+    },
+    {
+        "id": 8,
+        "book_name": "How to win friends and influence people",
+        "book_genre": "Self-Development",
+        "book_author": "Dale Carnegie",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/81ixRxn+JKL.jpg"
+    },
+    {
+        "id": 9,
+        "book_name": "Subtle Art of not giving a Fuck",
+        "book_genre": "Self-Development",
+        "book_author": "Mark Manson",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/516pmXNNmCL._SX324_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 10,
+        "book_name": "Art of War",
+        "book_genre": "War",
+        "book_author": "Sun Tzu",
+        "book_image": "https://images-na.ssl-images-amazon.com/images/I/71qbK90zBjL.jpg"
+    }
+]
