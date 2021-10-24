@@ -2,7 +2,18 @@ import React from 'react';
 import FilterBtn from './FilterBtn';
 import FilterOptions from './FilterOptions'
 
-const Filter = () => {
+const Filter = ({setFilter, filters}) => {
+
+    const updateFilter = (genre, e) => {
+        const checked = e.target.checked;
+
+        if(checked && filters.indexOf(genre) === -1) {
+            setFilter(oldFilter => [...oldFilter, genre]);
+        } 
+        else if(!checked && filters.indexOf(genre) !== -1) {
+            setFilter(filters.filter(item => item !== genre));
+        }
+    }
 
     const handleFilterBtnClick = () => {
         const filterOptions = document.getElementById('filterOptions');
@@ -21,7 +32,7 @@ const Filter = () => {
             </div>
 
             <div>
-                <FilterOptions />
+                <FilterOptions updateFilter={updateFilter}/>
             </div>
         </div>
     )
